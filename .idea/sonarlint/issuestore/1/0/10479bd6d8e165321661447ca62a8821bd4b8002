@@ -1,0 +1,9 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(‚ŞÏ¥ıÿÿÿÿ8‚¹üËÜ1
+G	java:S106"+Replace this use of System.out by a logger.(û¿àµ8‚¹üËÜ1
+L	java:S106"+Replace this use of System.out by a logger.(‡†ºÚÿÿÿÿÿ8ƒ¹üËÜ1
+L	java:S106"+Replace this use of System.out by a logger.(©ÿõ¹úÿÿÿÿ8ƒ¹üËÜ1
+F	java:S106"+Replace this use of System.out by a logger.(ÿ®Ái8ƒ¹üËÜ1
+O
+java:S1128
+"-Remove this unused import 'java.util.Vector'.(ÿŒ¸Áÿÿÿÿÿ8ƒ¹üËÜ1

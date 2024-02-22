@@ -1,0 +1,4 @@
+rootProject.name = 'lld'
+include 'FactoryMethod'
+include 'ObserverPattern'
+
