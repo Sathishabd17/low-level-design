@@ -4,4 +4,5 @@ include 'ObserverPattern'
 include 'AbstractFactory'
 include 'BuilderPattern'
 include 'SingletonPattern'
+include 'AdapterPattern'
 
