@@ -2,4 +2,6 @@ rootProject.name = 'lld'
 include 'FactoryMethod'
 include 'ObserverPattern'
 include 'AbstractFactory'
+include 'BuilderPattern'
+include 'SingletonPattern'
 
