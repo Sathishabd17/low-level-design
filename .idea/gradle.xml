@@ -10,7 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AbstractFactory" />
+            <option value="$PROJECT_DIR$/AdapterPattern" />
             <option value="$PROJECT_DIR$/BuilderPattern" />
+            <option value="$PROJECT_DIR$/FacadePattern" />
             <option value="$PROJECT_DIR$/FactoryMethod" />
             <option value="$PROJECT_DIR$/ObserverPattern" />
             <option value="$PROJECT_DIR$/SingletonPattern" />
