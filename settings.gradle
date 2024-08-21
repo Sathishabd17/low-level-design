@@ -7,4 +7,6 @@ include 'SingletonPattern'
 include 'AdapterPattern'
 include 'FacadePattern'
 include 'CompositePattern'
+include 'ChainOfResponsibility'
+include 'StrategyPattern'
 
