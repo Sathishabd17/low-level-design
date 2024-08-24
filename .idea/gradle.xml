@@ -17,7 +17,9 @@
             <option value="$PROJECT_DIR$/FacadePattern" />
             <option value="$PROJECT_DIR$/FactoryMethod" />
             <option value="$PROJECT_DIR$/ObserverPattern" />
+            <option value="$PROJECT_DIR$/Problems" />
             <option value="$PROJECT_DIR$/SingletonPattern" />
+            <option value="$PROJECT_DIR$/StrategyPattern" />
           </set>
         </option>
       </GradleProjectSettings>

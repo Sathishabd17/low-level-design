@@ -9,4 +9,5 @@ include 'FacadePattern'
 include 'CompositePattern'
 include 'ChainOfResponsibility'
 include 'StrategyPattern'
+include 'Problems'
 
