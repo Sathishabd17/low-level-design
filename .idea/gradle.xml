@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/BuilderPattern" />
             <option value="$PROJECT_DIR$/ChainOfResponsibility" />
             <option value="$PROJECT_DIR$/CompositePattern" />
+            <option value="$PROJECT_DIR$/Concurrency" />
             <option value="$PROJECT_DIR$/FacadePattern" />
             <option value="$PROJECT_DIR$/FactoryMethod" />
             <option value="$PROJECT_DIR$/ObserverPattern" />
